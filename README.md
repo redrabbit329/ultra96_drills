@@ -8,11 +8,15 @@ My practice on basic
 ------------------
 ## 시작하기 전에... (준비)
    - Environment  :
-         "Windows10, Vitis 2019.2 (included Vivado 2019.2)"
+         * Windows10, Vitis 2019.2 (included Vivado 2019.2)
+         
    - HW           : 
-         "Ultra96 v2"
+         * Ultra96 V2 Board
+         
    - Board Files  : 
-         "BDF파일을 *<설치위치> \ Vivado \ 2018.3 \ data \ boards \ board_files*아래 붙여넣어야 한다."
+         * BDF파일을 <설치위치> \ Vivado \ 2018.3 \ data \ boards \ board_files아래 붙여넣어야 한다.
+         
+------------------
 
 ## Vivado를 사용한 FPGA설계
 ### 1. Vivado Design Flow
