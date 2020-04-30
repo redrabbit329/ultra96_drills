@@ -4,11 +4,12 @@ My practice on basic
 
 ## Based on "Inipro Ultra96 Training kit user guide (tag 2019.1)"
    - 이니프로에서 제공하는 ug문서를 기준으로 2019.2 Tools 구동
-   - Vivado & Vitis 2019.2
+   - Vivado & Vitis 2019.2.1 (
 ------------------
 ## 시작하기 전에... (준비)
    - Environment  :
-         Windows10, Vitis 2019.2 (included Vivado 2019.2)
+         Windows10 
+         Vitis 2019.2.1 (included Vivado 2019.2.1) - updated ver.
          
    - HW           : 
          Ultra96 V2 Board
