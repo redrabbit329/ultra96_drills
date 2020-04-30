@@ -1,2 +1,22 @@
 # ultra96_drills
-my practice on basic
+------------------
+My practice on basic
+
+## Based on "Inipro Ultra96 Training kit user guide (tag 2019.1)"
+   - 이니프로에서 제공하는 ug문서를 기준으로 2019.2 Tools 구동
+   - Vivado & Vitis 2019.2
+------------------
+# Vivado를 사용한 FPGA설계
+## 1. Vivado Design Flow
+## 2. LED Counter
+## 3. 7Segment Digital Clock
+## 4. VGA Output Implementation
+
+------------------
+# Vitis(SDK)를 사용한 Zynq설계
+## 1. Bare Metal Programming
+## 2. IIC Interface Implementation
+## 3. SPI Interface Implementation
+## 4. VGA Output Custom IP Generation
+## 5. UART로 Custom IP Implementation
+## 6. SD Card Booting
