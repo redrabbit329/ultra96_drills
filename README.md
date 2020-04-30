@@ -2,9 +2,9 @@
 ------------------
 My practice on basic
 
-## Based on "Inipro Ultra96 Training kit user guide (tag 2019.1)"
+#### Based on "Inipro Ultra96 Training kit user guide (tag 2019.1)"
    - 이니프로에서 제공하는 ug문서를 기준으로 2019.2 Tools 구동
-   - Vivado & Vitis 2019.2.1 (
+
 ------------------
 ## 시작하기 전에... (준비)
    - Environment  :
