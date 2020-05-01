@@ -11,6 +11,9 @@ My practice on basic
    - Environment  :
          Windows10 
          Vitis 2019.2.1 (included Vivado 2019.2.1) - updated ver.
+         Initial Board Boot Switch (SW2) : 
+            -- SDCard Boot(Default) Mode     1 : [OFF],  2 : [ON]
+            -- JTAG Boot Mode                1 : [ON],   2 : [ON]
          
    - HW           : 
          Ultra96 V2 Board
@@ -24,6 +27,7 @@ My practice on basic
 
 ### 1. Vivado Design Flow
 ### 2. LED Counter
+   - 3min 이내의 build time
 ### 3. 7Segment Digital Clock
 ### 4. VGA Output Implementation
 
